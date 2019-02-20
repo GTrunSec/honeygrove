@@ -27,3 +27,4 @@ Members of the project that agreed to be named are:
 * Alexandra Lindt
 * [Adrian Miska](https://github.com/AdrianMiska)
 * [Frieder Uhlig](https://github.com/Moshtart)
+* [Julian 4goettma](https://github.com/4goettma)
