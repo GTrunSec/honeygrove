@@ -116,7 +116,7 @@ class Config:
     # SSH service configuration
     ssh = ConfigSection()
     ssh.name = "SSH"
-    ssh.port = 22
+    ssh.port = 50
     ssh.connections_per_host = general.max_connections_per_host
     # must start with "SSH-2.0-"
     ssh.banner = b'SSH-2.0-' + general.hostname.encode()
